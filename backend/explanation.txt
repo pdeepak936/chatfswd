@@ -1,0 +1,35 @@
+a and  b (communicate)
+
+a send msz to b (via api)
+
+A sent message successfully to db
+b wants to read it
+b need to call the api
+
+
+how b will check (either reloading or re calling api)
+2nd option after every minute I call api and check the msz
+ (not possible through api)
+
+
+SocketIO
+bidirectional and event-based communication between a client and a server.
+
+
+model, schema in mongoose
+
+Collection
+    User
+    Conversation
+
+
+// 3rd Day
+
+Git hub  Link : https://github.com/kushguglani/chat-fswd
+
+
+open CMD
+git clone https://github.com/kushguglani/chat-fswd
+cd chat-fswd
+npm i
+npm run start
